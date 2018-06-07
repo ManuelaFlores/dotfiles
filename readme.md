@@ -1,4 +1,4 @@
-# Erik's dotfiles.
+# Manuela's dotfiles.
 
 This repo contains my personal dotfiles and are heavily based on [addy](https://github.com/addyosmani/dotfiles/)
 
@@ -99,7 +99,7 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 ## Installation
 
 ```bash
-git clone https://github.com/erikfloresq/dotfiles.git && cd dotfiles && ./sync.sh
+git clone https://github.com/ManuelaFlores/dotfiles.git && cd dotfiles && ./sync.sh
 ```
 
 To update later on, just run the sync again.
